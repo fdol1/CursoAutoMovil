@@ -12,5 +12,4 @@ import org.junit.runner.RunWith;
         snippets = SnippetType.CAMELCASE
 )
 @RunWith(CucumberWithSerenity.class)
-public class RunnerAbrirApp {
-}
+public class RunnerAbrirApp { }
